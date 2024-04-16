@@ -17,8 +17,8 @@ Lukas Durkin
 
 ## Github Link
 
-https://github.com/DukeLurkin/newPortfolio
+https://github.com/DukeLurkin/Portfolio
 
 ## Live Deployed App
 
-https://dukelurkin.github.io/newPortfolio/
+https://dukelurkin.github.io/Portfolio/
